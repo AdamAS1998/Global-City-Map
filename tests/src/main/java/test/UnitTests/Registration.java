@@ -43,7 +43,7 @@ class Registration  {
     public static final String DB_PASS = "123456";
 
     private static final String USERNAME = "Adam123";
-    private static final String PASSWORD = "Adam199*";
+    private static final String PASSWORD = "TestUser123*";
 
     @BeforeAll
     void setup() throws SQLException {
