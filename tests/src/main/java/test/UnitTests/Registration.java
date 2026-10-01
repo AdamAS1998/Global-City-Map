@@ -40,7 +40,7 @@ class Registration  {
 
     public static final String DB_URL = "jdbc:mysql://localhost:3306/GCM_DB";
     public static final String DB_USER = "root";
-    public static final String DB_PASS = "123456";
+    public static final String DB_PASS = "YOUR_MYSQL_PASSWORD";
 
     private static final String USERNAME = "Adam123";
     private static final String PASSWORD = "TestUser123*";
